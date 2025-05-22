@@ -18,7 +18,7 @@ def display_task(tasks):
         print("No tasks found")
     else:
         for i, task in enumerate(tasks,start=1):
-            print(f"{i}. {tasks}")
+            print(f"{i}. {task}")
 
 def add_task():
     task = input("Enter a new task : ")
