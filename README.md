@@ -13,6 +13,7 @@ A simple command-line calculator that performs basic arithmetic operations.
 ```bash
 cd calculator
 python main.py
+```
 
 ---
 
@@ -26,3 +27,4 @@ A command-line to-do list app that allows users to add, view, mark, and delete t
 ```bash
 cd to_do_list
 python main.py
+```
