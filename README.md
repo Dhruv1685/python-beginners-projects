@@ -29,3 +29,16 @@ A command-line to-do list app that allows users to add, view, mark, and delete t
 cd to_do_list
 python main.py
 ```
+
+## 🏦 Bank_System
+
+A command-line bank-system that allows user to deposit,withdraw and check their balanace.
+
+**Concepts:** Class/objects , Instance Method, Simple Menu Interface
+
+### ▶️ How to Run:
+```bash
+cd bank_system
+python main.py
+```
+
