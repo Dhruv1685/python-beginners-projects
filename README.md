@@ -10,6 +10,7 @@ A simple command-line calculator that performs basic arithmetic operations.
 
 **Concepts:** Functions, conditionals, input/output
 
+### ▶️ How to Run:
 ```bash
 cd calculator
 python main.py
